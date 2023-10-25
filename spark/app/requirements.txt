@@ -1,0 +1,8 @@
+pandas
+numpy
+pyspark
+vnstock
+requests
+plotly
+BeautifulSoup4
+findspark
